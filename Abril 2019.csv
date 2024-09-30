@@ -1,0 +1,570 @@
+FECHA;CATEGORÍA;CLIENTE;TRATAMIENTO;ESTETICISTA;PRECIO;DESCUENTO; TOTAL COBRADO 
+1 04 2019;Facial;B-20;Limpieza Profunda;Rafaella; S/218.00 ; S/15.26 ; S/202.74 
+1 04 2019;Corporal;A-10;Ritual Esencial Del Mar;María; S/214.00 ; S/21.40 ; S/192.60 
+1 04 2019;Facial;C-14;Lifting de Piel Madura;María; S/212.00 ; S/8.48 ; S/203.52 
+1 04 2019;Facial;B-15;Accua Morin;Rosa; S/149.00 ; S/14.90 ; S/134.10 
+1 04 2019;Corporal;B-10;Modelaje;Rafaella; S/199.00 ;; S/199.00 
+1 04 2019;Facial;B-18;Equilibrante;Rosa; S/112.00 ; S/5.60 ; S/106.40 
+1 04 2019;Corporal;D-13;Reductivo;Rafaella; S/138.00 ; S/9.66 ; S/128.34 
+1 04 2019;Facial;C-14;Vaporizacion;Rosa; S/151.00 ; S/15.10 ; S/135.90 
+1 04 2019;Facial;C-11;Hieloterapia;Ana; S/195.00 ; S/3.90 ; S/191.10 
+1 04 2019;Facial;C-20;Limpieza Profunda;Rafaella; S/218.00 ; S/19.62 ; S/198.38 
+1 04 2019;Facial;B-13;Limpieza Profunda;Rafaella; S/218.00 ; S/10.90 ; S/207.10 
+1 04 2019;Facial;D-19;Limpieza Profunda;Rosa; S/218.00 ; S/19.62 ; S/198.38 
+1 04 2019;Facial;A-18;Basico;María; S/137.00 ; S/2.74 ; S/134.26 
+1 04 2019;Facial;A-17;Linea Colageno y Elastina;Camila; S/145.00 ; S/1.45 ; S/143.55 
+1 04 2019;Corporal;B-16;Heavenly Body;Rafaella; S/192.00 ; S/19.20 ; S/172.80 
+1 04 2019;Corporal;A-14;Integral Reductivo;Ana; S/191.00 ; S/13.37 ; S/177.63 
+1 04 2019;Facial;C-10;Microdermoabrasión;Camila; S/237.00 ; S/4.74 ; S/232.26 
+1 04 2019;Facial;A-19;Tratamiento de Limpieza;Ana; S/220.00 ; S/17.60 ; S/202.40 
+1 04 2019;Corporal;C-19;Fango Aromatico;María; S/128.00 ; S/6.40 ; S/121.60 
+1 04 2019;Facial;B-17;Limpieza Profunda;María; S/218.00 ; S/17.44 ; S/200.56 
+1 04 2019;Corporal;B-17;De Algas Desintoxicantes;Camila; S/101.00 ; S/1.01 ; S/99.99 
+1 04 2019;Facial;B-11;Hidratante;Rosa; S/193.00 ; S/11.58 ; S/181.42 
+1 04 2019;Facial;B-20;Yax;Rafaella; S/157.00 ; S/12.56 ; S/144.44 
+2 04 2019;Corporal;B-16;Heavenly Body;Rosa; S/192.00 ; S/19.20 ; S/172.80 
+2 04 2019;Corporal;A-20;Exfoliante Energizante;Camila; S/202.00 ; S/4.04 ; S/197.96 
+2 04 2019;Facial;A-16;Linea Colageno y Elastina;Rosa; S/145.00 ; S/14.50 ; S/130.50 
+2 04 2019;Corporal;C-10;Fango;Camila; S/111.00 ; S/3.33 ; S/107.67 
+2 04 2019;Corporal;A-10;Ritual Esencial Del Mar;María; S/214.00 ; S/21.40 ; S/192.60 
+2 04 2019;Corporal;A-16;Velo De Novia (Exfoliacion Corporal);Ana; S/217.00 ; S/19.53 ; S/197.47 
+2 04 2019;Corporal;A-14;Heavenly Body;Rosa; S/192.00 ; S/17.28 ; S/174.72 
+2 04 2019;Corporal;B-17;Cacahua;Camila; S/168.00 ; S/10.08 ; S/157.92 
+2 04 2019;Facial;D-10;Limpieza Profunda;Camila; S/218.00 ; S/21.80 ; S/196.20 
+2 04 2019;Facial;D-13;Hidratante;Rafaella; S/193.00 ; S/7.72 ; S/185.28 
+2 04 2019;Facial;A-13;Europeo;Camila; S/199.00 ; S/1.99 ; S/197.01 
+2 04 2019;Corporal;C-18;Modelaje;María; S/199.00 ; S/13.93 ; S/185.07 
+2 04 2019;Facial;D-14;Hidratante;Rosa; S/193.00 ; S/9.65 ; S/183.35 
+2 04 2019;Facial;D-12;Lifting de Piel Madura;Rafaella; S/212.00 ; S/6.36 ; S/205.64 
+3 04 2019;Facial;D-11;Tratamiento de Limpieza;Rosa; S/220.00 ; S/17.60 ; S/202.40 
+3 04 2019;Corporal;C-15;Integral Reductivo;María; S/191.00 ;; S/191.00 
+3 04 2019;Corporal;C-13;Envolvente Desintoxicante;María; S/198.00 ; S/1.98 ; S/196.02 
+3 04 2019;Corporal;C-19;Velo De Novia (Exfoliacion Corporal);Ana; S/217.00 ; S/4.34 ; S/212.66 
+3 04 2019;Corporal;A-12;De Algas Desintoxicantes;Camila; S/101.00 ; S/2.02 ; S/98.98 
+3 04 2019;Facial;C-19;Hieloterapia;Rosa; S/195.00 ; S/17.55 ; S/177.45 
+3 04 2019;Facial;A-16;Antiedad;Ana; S/228.00 ; S/2.28 ; S/225.72 
+3 04 2019;Facial;A-13;Hieloterapia;María; S/195.00 ; S/15.60 ; S/179.40 
+3 04 2019;Corporal;B-11;Reductivo;Camila; S/138.00 ; S/5.52 ; S/132.48 
+3 04 2019;Facial;B-10;Equilibrante;Camila; S/112.00 ; S/8.96 ; S/103.04 
+3 04 2019;Facial;B-14;Limpieza Profunda;Ana; S/218.00 ; S/13.08 ; S/204.92 
+3 04 2019;Corporal;B-15;De Algas Desintoxicantes;Rafaella; S/101.00 ; S/7.07 ; S/93.93 
+3 04 2019;Facial;C-19;Hieloterapia;Rosa; S/195.00 ; S/17.55 ; S/177.45 
+3 04 2019;Facial;D-11;Renewel;María; S/173.00 ; S/6.92 ; S/166.08 
+3 04 2019;Corporal;C-18;De Algas Desintoxicantes;Rafaella; S/101.00 ; S/9.09 ; S/91.91 
+3 04 2019;Corporal;C-14;Exfoliante Energizante;Camila; S/202.00 ; S/2.02 ; S/199.98 
+3 04 2019;Corporal;C-15;Ritual Esencial Del Mar;Ana; S/214.00 ; S/21.40 ; S/192.60 
+3 04 2019;Facial;B-13;Hidratante;Ana; S/193.00 ; S/9.65 ; S/183.35 
+4 04 2019;Corporal;A-19;Exfoliante Energizante;Camila; S/202.00 ;; S/202.00 
+4 04 2019;Facial;C-10;Renewel;María; S/173.00 ; S/10.38 ; S/162.62 
+4 04 2019;Facial;A-18;Europeo;Camila; S/199.00 ; S/13.93 ; S/185.07 
+4 04 2019;Facial;B-10;Europeo;Rosa; S/199.00 ; S/7.96 ; S/191.04 
+4 04 2019;Corporal;A-18;Reductivo;María; S/138.00 ; S/6.90 ; S/131.10 
+4 04 2019;Facial;D-10;Tratamiento de Limpieza;María; S/220.00 ; S/8.80 ; S/211.20 
+4 04 2019;Corporal;B-15;Hipertermia;María; S/202.00 ;; S/202.00 
+4 04 2019;Facial;A-13;Equilibrante;Rosa; S/112.00 ; S/3.36 ; S/108.64 
+4 04 2019;Facial;C-17;Yax;Rafaella; S/157.00 ; S/7.85 ; S/149.15 
+4 04 2019;Facial;A-20;Limpieza Profunda;Ana; S/218.00 ; S/19.62 ; S/198.38 
+4 04 2019;Facial;C-17;Antiedad;Rafaella; S/228.00 ;; S/228.00 
+4 04 2019;Facial;D-19;Yax;Camila; S/157.00 ; S/3.14 ; S/153.86 
+4 04 2019;Corporal;A-15;Velo De Novia (Exfoliacion Corporal);Rafaella; S/217.00 ; S/6.51 ; S/210.49 
+4 04 2019;Facial;C-17;Lifting de Piel Madura;Rosa; S/212.00 ; S/6.36 ; S/205.64 
+4 04 2019;Facial;C-19;Limpieza Profunda;María; S/218.00 ; S/2.18 ; S/215.82 
+4 04 2019;Facial;D-14;Tratamiento de Limpieza;Rosa; S/220.00 ; S/6.60 ; S/213.40 
+4 04 2019;Facial;A-18;Limpieza Profunda;Camila; S/218.00 ; S/13.08 ; S/204.92 
+4 04 2019;Corporal;A-17;Chocoterapia;Rafaella; S/184.00 ; S/5.52 ; S/178.48 
+4 04 2019;Corporal;C-10;Reductivo;Rosa; S/138.00 ; S/11.04 ; S/126.96 
+4 04 2019;Corporal;A-15;Envolvente De Aguacate Con Yogurt;Rosa; S/201.00 ; S/10.05 ; S/190.95 
+5 04 2019;Facial;C-14;Daymond Frozend;María; S/146.00 ; S/14.60 ; S/131.40 
+5 04 2019;Corporal;A-12;Chocoterapia;Ana; S/184.00 ; S/5.52 ; S/178.48 
+5 04 2019;Facial;A-17;Hieloterapia;Camila; S/195.00 ; S/13.65 ; S/181.35 
+5 04 2019;Corporal;A-11;Exfoliante Energizante;Rafaella; S/202.00 ; S/4.04 ; S/197.96 
+5 04 2019;Facial;B-18;Europeo;Ana; S/199.00 ; S/7.96 ; S/191.04 
+5 04 2019;Facial;C-18;Renewel;Rosa; S/173.00 ; S/12.11 ; S/160.89 
+5 04 2019;Corporal;D-14;Exfoliante Energizante;Rosa; S/202.00 ; S/10.10 ; S/191.90 
+5 04 2019;Corporal;D-14;Integral Reductivo;Camila; S/191.00 ; S/17.19 ; S/173.81 
+5 04 2019;Facial;D-18;Exfoliación;Rosa; S/181.00 ; S/7.24 ; S/173.76 
+5 04 2019;Corporal;D-10;Con Tequila;Rosa; S/146.00 ; S/10.22 ; S/135.78 
+5 04 2019;Facial;D-20;Renewel;María; S/173.00 ; S/13.84 ; S/159.16 
+5 04 2019;Facial;C-18;Hidratante;Ana; S/193.00 ; S/13.51 ; S/179.49 
+5 04 2019;Corporal;B-19;Ritual Azul Turquesa;Ana; S/194.00 ; S/5.82 ; S/188.18 
+5 04 2019;Corporal;C-15;Ritual Azul Turquesa;María; S/194.00 ; S/9.70 ; S/184.30 
+5 04 2019;Corporal;B-11;Hipertermia;Camila; S/202.00 ; S/2.02 ; S/199.98 
+5 04 2019;Corporal;A-10;Cacahua;Ana; S/168.00 ; S/8.40 ; S/159.60 
+5 04 2019;Corporal;B-19;Velo De Novia (Exfoliacion Corporal);Ana; S/217.00 ; S/6.51 ; S/210.49 
+5 04 2019;Facial;A-10;Antiedad;Rosa; S/228.00 ; S/13.68 ; S/214.32 
+5 04 2019;Corporal;C-11;De Algas Desintoxicantes;Rosa; S/101.00 ; S/10.10 ; S/90.90 
+5 04 2019;Facial;D-12;Hieloterapia;Ana; S/195.00 ; S/7.80 ; S/187.20 
+5 04 2019;Corporal;B-18;Ritual Azul Turquesa;Camila; S/194.00 ; S/17.46 ; S/176.54 
+6 04 2019;Facial;B-15;Limpieza Profunda;Rafaella; S/218.00 ; S/6.54 ; S/211.46 
+6 04 2019;Corporal;A-13;Ritual Azul Turquesa;Ana; S/194.00 ; S/9.70 ; S/184.30 
+6 04 2019;Facial;C-14;Daymond Frozend;María; S/146.00 ; S/14.60 ; S/131.40 
+6 04 2019;Facial;D-13;Hidratante;Rafaella; S/193.00 ; S/7.72 ; S/185.28 
+6 04 2019;Facial;D-11;Antiedad;Rosa; S/228.00 ; S/9.12 ; S/218.88 
+6 04 2019;Corporal;A-15;Envolvente De Aguacate Con Yogurt;Rosa; S/201.00 ; S/10.05 ; S/190.95 
+6 04 2019;Corporal;A-12;Modelaje;Ana; S/199.00 ; S/19.90 ; S/179.10 
+6 04 2019;Facial;D-12;Lifting de Piel Madura;Rafaella; S/212.00 ; S/8.48 ; S/203.52 
+6 04 2019;Corporal;B-16;Relajante (No Recuerda Bien El Nombre);Rosa; S/170.00 ; S/3.40 ; S/166.60 
+6 04 2019;Corporal;C-20;Modelaje;Rafaella; S/199.00 ; S/9.95 ; S/189.05 
+6 04 2019;Corporal;D-18;Modelaje;Rosa; S/199.00 ; S/17.91 ; S/181.09 
+6 04 2019;Facial;D-15;Accua Morin;Camila; S/149.00 ; S/2.98 ; S/146.02 
+6 04 2019;Corporal;C-13;Envolvente Desintoxicante;María; S/198.00 ; S/1.98 ; S/196.02 
+6 04 2019;Facial;C-19;Daymond Frozend;Ana; S/146.00 ; S/4.38 ; S/141.62 
+6 04 2019;Facial;D-11;Antiedad;Rosa; S/228.00 ; S/9.12 ; S/218.88 
+6 04 2019;Corporal;B-15;Hipertermia;María; S/202.00 ;; S/202.00 
+6 04 2019;Facial;B-20;Limpieza Profunda;Rafaella; S/218.00 ; S/15.26 ; S/202.74 
+6 04 2019;Corporal;C-19;Modelaje;Rosa; S/199.00 ; S/19.90 ; S/179.10 
+6 04 2019;Corporal;D-14;Relajante (No Recuerda Bien El Nombre);Rafaella; S/170.00 ; S/15.30 ; S/154.70 
+6 04 2019;Facial;B-10;Exfoliación;Camila; S/181.00 ; S/10.86 ; S/170.14 
+7 04 2019;Corporal;D-14;Cacahua;Rafaella; S/168.00 ;; S/168.00 
+7 04 2019;Facial;B-18;Europeo;Ana; S/199.00 ; S/7.96 ; S/191.04 
+7 04 2019;Corporal;A-16;Hieloterapia;María; S/195.00 ; S/3.90 ; S/191.10 
+7 04 2019;Facial;B-12;Europeo;María; S/199.00 ; S/1.99 ; S/197.01 
+7 04 2019;Facial;B-19;Vaporizacion;Rafaella; S/151.00 ; S/7.55 ; S/143.45 
+7 04 2019;Facial;D-11;Renewel;María; S/173.00 ; S/6.92 ; S/166.08 
+7 04 2019;Facial;D-12;Lifting de Piel Madura;Rafaella; S/212.00 ; S/6.36 ; S/205.64 
+7 04 2019;Corporal;D-13;Heavenly Body;Rosa; S/192.00 ; S/9.60 ; S/182.40 
+7 04 2019;Corporal;A-11;Con Tequila;Ana; S/146.00 ; S/8.76 ; S/137.24 
+7 04 2019;Corporal;A-14;De Algas Desintoxicantes;Rosa; S/101.00 ; S/3.03 ; S/97.97 
+7 04 2019;Facial;D-10;Equilibrante;Rosa; S/112.00 ; S/4.48 ; S/107.52 
+7 04 2019;Facial;A-20;Europeo;Camila; S/199.00 ;; S/199.00 
+7 04 2019;Corporal;D-20;Relajante (No Recuerda Bien El Nombre);Rosa; S/170.00 ; S/6.80 ; S/163.20 
+7 04 2019;Corporal;A-17;Chocoterapia;Rafaella; S/184.00 ; S/5.52 ; S/178.48 
+7 04 2019;Corporal;C-14;Fango;María; S/111.00 ; S/11.10 ; S/99.90 
+8 04 2019;Facial;C-19;Limpieza Profunda;Rosa; S/218.00 ; S/17.44 ; S/200.56 
+8 04 2019;Corporal;D-13;Heavenly Body;Rosa; S/192.00 ; S/9.60 ; S/182.40 
+8 04 2019;Corporal;B-17;Relajante (No Recuerda Bien El Nombre);Rosa; S/170.00 ; S/6.80 ; S/163.20 
+8 04 2019;Corporal;C-15;Envolvente Desintoxicante;Rafaella; S/198.00 ; S/5.94 ; S/192.06 
+8 04 2019;Corporal;C-14;Fango;María; S/111.00 ; S/11.10 ; S/99.90 
+8 04 2019;Corporal;C-10;Hipertermia;María; S/202.00 ; S/8.08 ; S/193.92 
+8 04 2019;Facial;A-10;Limpieza Profunda;Rafaella; S/218.00 ; S/17.44 ; S/200.56 
+8 04 2019;Facial;D-16;Hidratante;Camila; S/193.00 ; S/9.65 ; S/183.35 
+8 04 2019;Facial;D-13;Daymond Frozend;María; S/146.00 ; S/13.14 ; S/132.86 
+8 04 2019;Facial;C-18;Renewel;Rosa; S/173.00 ; S/12.11 ; S/160.89 
+8 04 2019;Facial;D-11;Yax;Camila; S/157.00 ; S/4.71 ; S/152.29 
+8 04 2019;Facial;A-19;Accua Morin;María; S/149.00 ; S/1.49 ; S/147.51 
+8 04 2019;Corporal;B-12;Modelaje;María; S/199.00 ; S/1.99 ; S/197.01 
+8 04 2019;Facial;B-15;Linea Colageno y Elastina;Rafaella; S/145.00 ; S/2.90 ; S/142.10 
+8 04 2019;Facial;A-18;Basico;Camila; S/137.00 ; S/10.96 ; S/126.04 
+8 04 2019;Facial;C-17;Microdermoabrasión;Rosa; S/237.00 ;; S/237.00 
+9 04 2019;Facial;B-10;Equilibrante;Camila; S/112.00 ; S/8.96 ; S/103.04 
+9 04 2019;Facial;C-20;Equilibrante;María; S/112.00 ; S/11.20 ; S/100.80 
+9 04 2019;Facial;A-11;Hieloterapia;Rafaella; S/195.00 ; S/13.65 ; S/181.35 
+9 04 2019;Facial;C-14;Linea Colageno y Elastina;Rafaella; S/145.00 ; S/11.60 ; S/133.40 
+9 04 2019;Corporal;D-20;Exfoliante Energizante;María; S/202.00 ; S/16.16 ; S/185.84 
+9 04 2019;Corporal;C-11;De Algas Desintoxicantes;Rosa; S/101.00 ; S/10.10 ; S/90.90 
+9 04 2019;Facial;C-19;Tratamiento de Limpieza;Ana; S/220.00 ; S/11.00 ; S/209.00 
+9 04 2019;Facial;C-12;Antiedad;Rosa; S/228.00 ; S/9.12 ; S/218.88 
+9 04 2019;Corporal;A-11;Fango Aromatico;Rosa; S/128.00 ; S/6.40 ; S/121.60 
+9 04 2019;Corporal;C-19;Reductivo;Camila; S/138.00 ; S/13.80 ; S/124.20 
+9 04 2019;Corporal;D-11;Exfoliante Energizante;María; S/202.00 ; S/16.16 ; S/185.84 
+9 04 2019;Corporal;B-17;Fango Aromatico;Camila; S/128.00 ; S/7.68 ; S/120.32 
+9 04 2019;Facial;B-13;Lifting de Piel Madura;Rosa; S/212.00 ;; S/212.00 
+9 04 2019;Corporal;D-13;Heavenly Body;María; S/192.00 ; S/3.84 ; S/188.16 
+9 04 2019;Facial;A-20;Limpieza Profunda;Ana; S/218.00 ; S/19.62 ; S/198.38 
+9 04 2019;Facial;B-15;Hieloterapia;Camila; S/195.00 ; S/7.80 ; S/187.20 
+9 04 2019;Facial;C-17;Limpieza Profunda;Rafaella; S/218.00 ; S/4.36 ; S/213.64 
+9 04 2019;Facial;D-12;Lifting de Piel Madura;Rafaella; S/212.00 ; S/8.48 ; S/203.52 
+9 04 2019;Facial;B-17;Tratamiento de Limpieza;Rosa; S/220.00 ;; S/220.00 
+9 04 2019;Corporal;D-13;Heavenly Body;María; S/192.00 ; S/3.84 ; S/188.16 
+9 04 2019;Facial;B-18;Limpieza Profunda;María; S/218.00 ; S/21.80 ; S/196.20 
+9 04 2019;Facial;D-13;Daymond Frozend;María; S/146.00 ; S/13.14 ; S/132.86 
+9 04 2019;Facial;A-18;Linea Colageno y Elastina;Camila; S/145.00 ; S/2.90 ; S/142.10 
+9 04 2019;Facial;B-15;Limpieza Profunda;Rosa; S/218.00 ; S/10.90 ; S/207.10 
+9 04 2019;Corporal;B-11;Exfoliante Energizante;Camila; S/202.00 ; S/4.04 ; S/197.96 
+10 04 2019;Facial;B-15;Hieloterapia;Camila; S/195.00 ; S/7.80 ; S/187.20 
+10 04 2019;Facial;B-18;Equilibrante;Rosa; S/112.00 ; S/5.60 ; S/106.40 
+10 04 2019;Facial;C-10;Limpieza Profunda;María; S/218.00 ; S/13.08 ; S/204.92 
+10 04 2019;Corporal;B-17;Hipertermia;Rafaella; S/202.00 ; S/20.20 ; S/181.80 
+10 04 2019;Facial;C-10;Microdermoabrasión;Camila; S/237.00 ; S/4.74 ; S/232.26 
+10 04 2019;Corporal;C-11;Heavenly Body;Rafaella; S/192.00 ;; S/192.00 
+10 04 2019;Corporal;B-16;Chocoterapia;Camila; S/184.00 ; S/1.84 ; S/182.16 
+10 04 2019;Facial;D-12;Microdermoabrasión;Rosa; S/237.00 ; S/4.74 ; S/232.26 
+10 04 2019;Corporal;A-17;Cacahua;Camila; S/168.00 ; S/3.36 ; S/164.64 
+10 04 2019;Corporal;D-11;De Algas Desintoxicantes;Ana; S/101.00 ; S/10.10 ; S/90.90 
+10 04 2019;Facial;C-20;Accua Morin;Ana; S/149.00 ; S/10.43 ; S/138.57 
+10 04 2019;Corporal;C-15;Chocoterapia;Ana; S/184.00 ; S/3.68 ; S/180.32 
+10 04 2019;Corporal;A-15;Hipertermia;Rafaella; S/202.00 ; S/10.10 ; S/191.90 
+10 04 2019;Facial;A-19;Europeo;Rafaella; S/199.00 ; S/9.95 ; S/189.05 
+10 04 2019;Corporal;C-11;Chocoterapia;Rafaella; S/184.00 ; S/18.40 ; S/165.60 
+10 04 2019;Facial;B-16;Limpieza Profunda;Ana; S/218.00 ; S/4.36 ; S/213.64 
+10 04 2019;Facial;D-13;Daymond Frozend;María; S/146.00 ; S/7.30 ; S/138.70 
+10 04 2019;Facial;A-19;Tratamiento de Limpieza;Ana; S/220.00 ; S/17.60 ; S/202.40 
+10 04 2019;Corporal;B-12;Con Tequila;Rosa; S/146.00 ; S/13.14 ; S/132.86 
+10 04 2019;Corporal;D-16;Relajante (No Recuerda Bien El Nombre);Camila; S/170.00 ; S/13.60 ; S/156.40 
+10 04 2019;Facial;B-12;Europeo;María; S/199.00 ; S/1.99 ; S/197.01 
+11 04 2019;Facial;D-15;Basico;Camila; S/137.00 ; S/6.85 ; S/130.15 
+11 04 2019;Corporal;A-12;Exfoliante Energizante;Camila; S/202.00 ; S/10.10 ; S/191.90 
+11 04 2019;Corporal;C-20;Ritual Azul Turquesa;Ana; S/194.00 ; S/3.88 ; S/190.12 
+11 04 2019;Corporal;A-13;Hipertermia;Rosa; S/202.00 ; S/12.12 ; S/189.88 
+11 04 2019;Facial;A-17;Accua Morin;María; S/149.00 ; S/1.49 ; S/147.51 
+11 04 2019;Corporal;D-20;Cacahua;Rosa; S/168.00 ; S/15.12 ; S/152.88 
+11 04 2019;Corporal;A-15;Velo De Novia (Exfoliacion Corporal);Ana; S/217.00 ; S/6.51 ; S/210.49 
+11 04 2019;Facial;B-14;Limpieza Profunda;Ana; S/218.00 ; S/13.08 ; S/204.92 
+11 04 2019;Facial;A-10;Antiedad;Rosa; S/228.00 ; S/20.52 ; S/207.48 
+11 04 2019;Corporal;B-10;Ritual Azul Turquesa;Rosa; S/194.00 ; S/13.58 ; S/180.42 
+11 04 2019;Corporal;D-17;Envolvente De Aguacate Con Yogurt;Camila; S/201.00 ; S/2.01 ; S/198.99 
+11 04 2019;Corporal;C-20;Ritual Azul Turquesa;Ana; S/194.00 ; S/3.88 ; S/190.12 
+11 04 2019;Facial;A-17;Limpieza Profunda;Rosa; S/218.00 ; S/13.08 ; S/204.92 
+11 04 2019;Corporal;B-19;De Algas Desintoxicantes;Camila; S/101.00 ; S/3.03 ; S/97.97 
+11 04 2019;Facial;A-17;Limpieza Profunda;Rosa; S/218.00 ; S/13.08 ; S/204.92 
+11 04 2019;Facial;C-10;Limpieza Profunda;María; S/218.00 ; S/13.08 ; S/204.92 
+11 04 2019;Facial;D-10;Equilibrante;Rosa; S/112.00 ; S/4.48 ; S/107.52 
+11 04 2019;Corporal;B-19;Reductivo;Rosa; S/138.00 ;; S/138.00 
+11 04 2019;Facial;C-17;Antiedad;Rafaella; S/228.00 ;; S/228.00 
+11 04 2019;Facial;B-11;Antiedad;María; S/228.00 ; S/15.96 ; S/212.04 
+12 04 2019;Facial;C-13;Europeo;Ana; S/199.00 ; S/19.90 ; S/179.10 
+12 04 2019;Facial;C-17;Equilibrante;Camila; S/112.00 ; S/4.48 ; S/107.52 
+12 04 2019;Corporal;A-19;Cacahua;Ana; S/168.00 ; S/15.12 ; S/152.88 
+12 04 2019;Corporal;C-15;Velo De Novia (Exfoliacion Corporal);Rosa; S/217.00 ; S/4.34 ; S/212.66 
+12 04 2019;Facial;D-10;Basico;Rosa; S/137.00 ; S/5.48 ; S/131.52 
+12 04 2019;Corporal;B-19;Velo De Novia (Exfoliacion Corporal);Ana; S/217.00 ; S/6.51 ; S/210.49 
+12 04 2019;Corporal;C-19;Envolvente Desintoxicante;Rafaella; S/198.00 ; S/9.90 ; S/188.10 
+12 04 2019;Facial;B-18;Renewel;Ana; S/173.00 ; S/12.11 ; S/160.89 
+12 04 2019;Corporal;C-19;Con Tequila;María; S/146.00 ; S/1.46 ; S/144.54 
+12 04 2019;Corporal;C-11;Chocoterapia;Rafaella; S/184.00 ; S/18.40 ; S/165.60 
+12 04 2019;Facial;B-10;Exfoliación;Camila; S/181.00 ; S/10.86 ; S/170.14 
+12 04 2019;Corporal;D-20;Chocoterapia;Camila; S/184.00 ; S/14.72 ; S/169.28 
+12 04 2019;Facial;A-17;Europeo;Ana; S/199.00 ; S/13.93 ; S/185.07 
+12 04 2019;Facial;B-16;Yax;María; S/157.00 ; S/3.14 ; S/153.86 
+12 04 2019;Corporal;D-13;Heavenly Body;Rosa; S/192.00 ; S/9.60 ; S/182.40 
+12 04 2019;Corporal;D-15;Chocoterapia;Camila; S/184.00 ; S/14.72 ; S/169.28 
+12 04 2019;Corporal;C-10;Integral Reductivo;María; S/191.00 ; S/7.64 ; S/183.36 
+12 04 2019;Facial;B-11;Limpieza Profunda;Rosa; S/218.00 ; S/15.26 ; S/202.74 
+12 04 2019;Facial;B-17;Yax;Ana; S/157.00 ; S/9.42 ; S/147.58 
+12 04 2019;Corporal;D-13;Envolvente Desintoxicante;Ana; S/198.00 ; S/5.94 ; S/192.06 
+13 04 2019;Facial;C-19;Yax;Rafaella; S/157.00 ; S/3.14 ; S/153.86 
+13 04 2019;Facial;A-18;Basico;Camila; S/137.00 ; S/10.96 ; S/126.04 
+13 04 2019;Corporal;D-20;Fango;Ana; S/111.00 ; S/2.22 ; S/108.78 
+13 04 2019;Facial;C-18;Microdermoabrasión;María; S/237.00 ; S/11.85 ; S/225.15 
+13 04 2019;Corporal;C-20;Ritual Esencial Del Mar;María; S/214.00 ;; S/214.00 
+13 04 2019;Facial;D-20;Yax;María; S/157.00 ; S/1.57 ; S/155.43 
+13 04 2019;Facial;A-17;Hieloterapia;Camila; S/195.00 ; S/13.65 ; S/181.35 
+13 04 2019;Corporal;B-12;Con Tequila;Rosa; S/146.00 ; S/13.14 ; S/132.86 
+13 04 2019;Facial;A-10;Microdermoabrasión;Rosa; S/237.00 ; S/4.74 ; S/232.26 
+13 04 2019;Corporal;A-15;Hipertermia;Rafaella; S/202.00 ; S/10.10 ; S/191.90 
+13 04 2019;Corporal;B-14;Heavenly Body;Ana; S/192.00 ;; S/192.00 
+13 04 2019;Facial;C-15;Antiedad;María; S/228.00 ; S/9.12 ; S/218.88 
+13 04 2019;Facial;B-19;Daymond Frozend;Rafaella; S/146.00 ;; S/146.00 
+13 04 2019;Facial;B-20;Linea Colageno y Elastina;María; S/145.00 ;; S/145.00 
+13 04 2019;Facial;C-20;Accua Morin;Ana; S/149.00 ; S/10.43 ; S/138.57 
+13 04 2019;Corporal;D-15;Fango;Rafaella; S/111.00 ; S/1.11 ; S/109.89 
+13 04 2019;Corporal;B-14;Heavenly Body;Ana; S/192.00 ;; S/192.00 
+13 04 2019;Corporal;C-19;Velo De Novia (Exfoliacion Corporal);Ana; S/217.00 ; S/4.34 ; S/212.66 
+13 04 2019;Facial;D-11;Yax;Camila; S/157.00 ; S/4.71 ; S/152.29 
+13 04 2019;Facial;A-17;Vaporizacion;María; S/151.00 ; S/3.02 ; S/147.98 
+13 04 2019;Corporal;A-20;Heavenly Body;Camila; S/192.00 ; S/9.60 ; S/182.40 
+14 04 2019;Corporal;C-17;Fango Aromatico;María; S/128.00 ;; S/128.00 
+14 04 2019;Corporal;D-15;Con Tequila;Rafaella; S/146.00 ; S/7.30 ; S/138.70 
+14 04 2019;Facial;B-13;Limpieza Profunda;Rafaella; S/218.00 ; S/10.90 ; S/207.10 
+14 04 2019;Facial;D-10;Equilibrante;Rosa; S/112.00 ; S/4.48 ; S/107.52 
+14 04 2019;Corporal;B-20;Hieloterapia;Ana; S/195.00 ; S/15.60 ; S/179.40 
+14 04 2019;Corporal;D-13;Integral Reductivo;Ana; S/191.00 ; S/11.46 ; S/179.54 
+14 04 2019;Facial;D-16;Antiedad;Rafaella; S/228.00 ; S/22.80 ; S/205.20 
+14 04 2019;Corporal;C-17;Reductivo;María; S/138.00 ; S/2.76 ; S/135.24 
+14 04 2019;Corporal;B-15;Envolvente De Aguacate Con Yogurt;María; S/201.00 ; S/10.05 ; S/190.95 
+14 04 2019;Corporal;D-17;Hieloterapia;Camila; S/195.00 ; S/7.80 ; S/187.20 
+14 04 2019;Corporal;C-17;Ritual Esencial Del Mar;Rafaella; S/214.00 ; S/12.84 ; S/201.16 
+14 04 2019;Corporal;A-14;Heavenly Body;Rosa; S/192.00 ; S/17.28 ; S/174.72 
+14 04 2019;Corporal;C-11;Ritual Azul Turquesa;Ana; S/194.00 ; S/15.52 ; S/178.48 
+14 04 2019;Corporal;C-16;Exfoliante Energizante;María; S/202.00 ; S/14.14 ; S/187.86 
+14 04 2019;Corporal;B-17;Cacahua;Camila; S/168.00 ; S/10.08 ; S/157.92 
+14 04 2019;Facial;A-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/8.70 ; S/136.30 
+14 04 2019;Corporal;A-13;Hipertermia;Rosa; S/202.00 ; S/4.04 ; S/197.96 
+14 04 2019;Facial;A-20;Accua Morin;María; S/149.00 ; S/10.43 ; S/138.57 
+15 04 2019;Facial;C-11;Antiedad;Rosa; S/228.00 ; S/20.52 ; S/207.48 
+15 04 2019;Facial;B-20;Yax;Rafaella; S/157.00 ; S/12.56 ; S/144.44 
+15 04 2019;Corporal;A-10;Envolvente Desintoxicante;Rosa; S/198.00 ; S/13.86 ; S/184.14 
+15 04 2019;Facial;B-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/11.60 ; S/133.40 
+15 04 2019;Facial;C-14;Lifting de Piel Madura;María; S/212.00 ; S/8.48 ; S/203.52 
+15 04 2019;Corporal;C-18;Modelaje;María; S/199.00 ; S/13.93 ; S/185.07 
+15 04 2019;Facial;A-17;Linea Colageno y Elastina;Camila; S/145.00 ; S/1.45 ; S/143.55 
+15 04 2019;Corporal;C-20;Modelaje;Rafaella; S/199.00 ; S/9.95 ; S/189.05 
+15 04 2019;Corporal;C-19;Modelaje;Rosa; S/199.00 ; S/19.90 ; S/179.10 
+15 04 2019;Corporal;C-17;Reductivo;Rafaella; S/138.00 ; S/12.42 ; S/125.58 
+15 04 2019;Corporal;D-13;Reductivo;Rafaella; S/138.00 ; S/9.66 ; S/128.34 
+15 04 2019;Corporal;D-15;Ritual Esencial Del Mar;Rosa; S/214.00 ; S/21.40 ; S/192.60 
+15 04 2019;Corporal;B-16;Heavenly Body;Rosa; S/192.00 ; S/19.20 ; S/172.80 
+15 04 2019;Corporal;A-14;De Algas Desintoxicantes;Rosa; S/101.00 ; S/3.03 ; S/97.97 
+15 04 2019;Facial;D-14;Tratamiento de Limpieza;Rosa; S/220.00 ; S/6.60 ; S/213.40 
+15 04 2019;Facial;A-12;Microdermoabrasión;Rafaella; S/237.00 ;; S/237.00 
+15 04 2019;Facial;A-15;Antiedad;Ana; S/228.00 ; S/20.52 ; S/207.48 
+15 04 2019;Corporal;D-13;Chocoterapia;Camila; S/184.00 ; S/16.56 ; S/167.44 
+15 04 2019;Corporal;D-18;De Algas Desintoxicantes;Rafaella; S/101.00 ;; S/101.00 
+15 04 2019;Facial;C-14;Microdermoabrasión;Camila; S/237.00 ; S/21.33 ; S/215.67 
+15 04 2019;Facial;D-12;Hieloterapia;Ana; S/195.00 ; S/7.80 ; S/187.20 
+15 04 2019;Corporal;D-10;Con Tequila;María; S/146.00 ; S/2.92 ; S/143.08 
+15 04 2019;Corporal;D-19;Reductivo;Camila; S/138.00 ; S/11.04 ; S/126.96 
+15 04 2019;Corporal;C-14;Exfoliante Energizante;Camila; S/202.00 ; S/2.02 ; S/199.98 
+15 04 2019;Facial;B-18;Antiedad;Rafaella; S/228.00 ; S/22.80 ; S/205.20 
+15 04 2019;Corporal;A-15;Hipertermia;Rafaella; S/202.00 ; S/10.10 ; S/191.90 
+15 04 2019;Facial;C-17;Lifting de Piel Madura;Rosa; S/212.00 ; S/6.36 ; S/205.64 
+16 04 2019;Corporal;D-14;Ritual Azul Turquesa;Camila; S/194.00 ; S/9.70 ; S/184.30 
+16 04 2019;Facial;A-20;Europeo;Camila; S/199.00 ;; S/199.00 
+16 04 2019;Corporal;A-15;Fango Aromatico;Rafaella; S/128.00 ; S/5.12 ; S/122.88 
+16 04 2019;Corporal;B-14;Cacahua;Rosa; S/168.00 ; S/11.76 ; S/156.24 
+16 04 2019;Corporal;A-13;Hipertermia;Rosa; S/202.00 ; S/12.12 ; S/189.88 
+16 04 2019;Corporal;C-12;Modelaje;María; S/199.00 ; S/11.94 ; S/187.06 
+16 04 2019;Corporal;C-10;Integral Reductivo;María; S/191.00 ; S/7.64 ; S/183.36 
+16 04 2019;Facial;D-20;Renewel;María; S/173.00 ; S/13.84 ; S/159.16 
+16 04 2019;Corporal;D-20;Fango;Ana; S/111.00 ; S/2.22 ; S/108.78 
+16 04 2019;Facial;C-11;Daymond Frozend;Camila; S/146.00 ; S/4.38 ; S/141.62 
+16 04 2019;Facial;A-12;Exfoliación;María; S/181.00 ; S/1.81 ; S/179.19 
+16 04 2019;Facial;C-16;Hidratante;Rosa; S/193.00 ; S/15.44 ; S/177.56 
+16 04 2019;Corporal;D-20;Exfoliante Energizante;Camila; S/202.00 ; S/4.04 ; S/197.96 
+16 04 2019;Corporal;C-18;Envolvente De Aguacate Con Yogurt;Camila; S/201.00 ; S/2.01 ; S/198.99 
+16 04 2019;Corporal;C-19;Velo De Novia (Exfoliacion Corporal);Ana; S/217.00 ; S/4.34 ; S/212.66 
+16 04 2019;Facial;C-13;Accua Morin;Ana; S/149.00 ;; S/149.00 
+16 04 2019;Facial;A-17;Europeo;Ana; S/199.00 ; S/13.93 ; S/185.07 
+16 04 2019;Corporal;B-11;Reductivo;Camila; S/138.00 ; S/5.52 ; S/132.48 
+16 04 2019;Corporal;B-18;Ritual Azul Turquesa;Camila; S/194.00 ; S/17.46 ; S/176.54 
+16 04 2019;Corporal;D-17;Envolvente De Aguacate Con Yogurt;Ana; S/201.00 ; S/16.08 ; S/184.92 
+16 04 2019;Corporal;B-11;Con Tequila;María; S/146.00 ; S/13.14 ; S/132.86 
+16 04 2019;Facial;D-11;Renewel;María; S/173.00 ; S/6.92 ; S/166.08 
+16 04 2019;Facial;A-10;Limpieza Profunda;Rafaella; S/218.00 ; S/17.44 ; S/200.56 
+16 04 2019;Corporal;B-10;Hieloterapia;Ana; S/195.00 ;; S/195.00 
+17 04 2019;Facial;B-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/11.60 ; S/133.40 
+17 04 2019;Corporal;B-19;De Algas Desintoxicantes;Camila; S/101.00 ; S/3.03 ; S/97.97 
+17 04 2019;Corporal;B-10;Fango;Rafaella; S/111.00 ; S/9.99 ; S/101.01 
+17 04 2019;Corporal;B-17;De Algas Desintoxicantes;Rafaella; S/101.00 ; S/2.02 ; S/98.98 
+17 04 2019;Facial;D-13;Europeo;María; S/199.00 ; S/19.90 ; S/179.10 
+17 04 2019;Corporal;D-14;Relajante (No Recuerda Bien El Nombre);Rafaella; S/170.00 ; S/15.30 ; S/154.70 
+17 04 2019;Facial;C-10;Limpieza Profunda;María; S/218.00 ; S/13.08 ; S/204.92 
+17 04 2019;Corporal;B-15;De Algas Desintoxicantes;Rafaella; S/101.00 ; S/7.07 ; S/93.93 
+17 04 2019;Corporal;D-11;De Algas Desintoxicantes;Ana; S/101.00 ; S/10.10 ; S/90.90 
+17 04 2019;Corporal;D-18;De Algas Desintoxicantes;Rafaella; S/101.00 ;; S/101.00 
+17 04 2019;Facial;A-10;Europeo;Rosa; S/199.00 ;; S/199.00 
+17 04 2019;Corporal;D-16;De Algas Desintoxicantes;María; S/101.00 ; S/1.01 ; S/99.99 
+17 04 2019;Facial;B-15;Accua Morin;Rosa; S/149.00 ; S/14.90 ; S/134.10 
+17 04 2019;Facial;B-16;Limpieza Profunda;Ana; S/218.00 ; S/4.36 ; S/213.64 
+17 04 2019;Corporal;C-10;Hipertermia;Camila; S/202.00 ; S/12.12 ; S/189.88 
+17 04 2019;Corporal;A-17;De Algas Desintoxicantes;María; S/101.00 ; S/3.03 ; S/97.97 
+17 04 2019;Corporal;C-10;Reductivo;María; S/138.00 ; S/1.38 ; S/136.62 
+17 04 2019;Facial;B-10;Equilibrante;Camila; S/112.00 ; S/8.96 ; S/103.04 
+17 04 2019;Corporal;C-19;Reductivo;Camila; S/138.00 ; S/13.80 ; S/124.20 
+17 04 2019;Facial;D-15;Exfoliación;Rafaella; S/181.00 ; S/1.81 ; S/179.19 
+17 04 2019;Facial;C-11;Hidratante;Ana; S/193.00 ; S/13.51 ; S/179.49 
+17 04 2019;Corporal;C-14;Exfoliante Energizante;Camila; S/202.00 ; S/2.02 ; S/199.98 
+18 04 2019;Corporal;B-15;Ritual Azul Turquesa;Rafaella; S/194.00 ;; S/194.00 
+18 04 2019;Facial;A-17;Yax;Camila; S/157.00 ; S/12.56 ; S/144.44 
+18 04 2019;Facial;A-20;Limpieza Profunda;Rosa; S/218.00 ; S/13.08 ; S/204.92 
+18 04 2019;Facial;D-12;Hieloterapia;Ana; S/195.00 ; S/7.80 ; S/187.20 
+18 04 2019;Corporal;C-16;Relajante (No Recuerda Bien El Nombre);Ana; S/170.00 ; S/11.90 ; S/158.10 
+18 04 2019;Corporal;D-20;Relajante (No Recuerda Bien El Nombre);Rosa; S/170.00 ; S/6.80 ; S/163.20 
+18 04 2019;Facial;B-17;Europeo;Camila; S/199.00 ;; S/199.00 
+18 04 2019;Facial;B-15;Limpieza Profunda;Rafaella; S/218.00 ;; S/218.00 
+18 04 2019;Corporal;C-15;Integral Reductivo;María; S/191.00 ;; S/191.00 
+18 04 2019;Corporal;A-20;Exfoliante Energizante;Camila; S/202.00 ; S/4.04 ; S/197.96 
+18 04 2019;Facial;C-12;Antiedad;Rosa; S/228.00 ; S/9.12 ; S/218.88 
+18 04 2019;Facial;A-10;Europeo;Camila; S/199.00 ; S/7.96 ; S/191.04 
+18 04 2019;Facial;B-18;Europeo;Ana; S/199.00 ; S/7.96 ; S/191.04 
+18 04 2019;Facial;D-12;Lifting de Piel Madura;Rafaella; S/212.00 ; S/8.48 ; S/203.52 
+18 04 2019;Corporal;B-10;Ritual Azul Turquesa;Rafaella; S/194.00 ; S/3.88 ; S/190.12 
+18 04 2019;Facial;B-17;Limpieza Profunda;María; S/218.00 ; S/17.44 ; S/200.56 
+18 04 2019;Corporal;D-20;Cacahua;Rosa; S/168.00 ; S/15.12 ; S/152.88 
+18 04 2019;Corporal;D-19;Fango;Rosa; S/111.00 ; S/8.88 ; S/102.12 
+19 04 2019;Facial;A-13;Hieloterapia;María; S/195.00 ; S/15.60 ; S/179.40 
+19 04 2019;Facial;D-12;Microdermoabrasión;Rosa; S/237.00 ; S/4.74 ; S/232.26 
+19 04 2019;Corporal;C-18;Modelaje;Rafaella; S/199.00 ; S/15.92 ; S/183.08 
+19 04 2019;Facial;D-17;Lifting de Piel Madura;Ana; S/212.00 ; S/2.12 ; S/209.88 
+19 04 2019;Facial;C-19;Antiedad;María; S/228.00 ; S/20.52 ; S/207.48 
+19 04 2019;Corporal;B-14;Heavenly Body;Ana; S/192.00 ;; S/192.00 
+19 04 2019;Facial;B-15;Linea Colageno y Elastina;Rafaella; S/145.00 ; S/2.90 ; S/142.10 
+19 04 2019;Corporal;C-20;Ritual Esencial Del Mar;María; S/214.00 ;; S/214.00 
+19 04 2019;Corporal;A-19;Hieloterapia;María; S/195.00 ;; S/195.00 
+19 04 2019;Corporal;C-16;Exfoliante Energizante;Camila; S/202.00 ; S/12.12 ; S/189.88 
+19 04 2019;Corporal;C-18;Integral Reductivo;Rosa; S/191.00 ; S/1.91 ; S/189.09 
+19 04 2019;Corporal;C-19;Hipertermia;María; S/202.00 ;; S/202.00 
+19 04 2019;Facial;D-15;Accua Morin;Camila; S/149.00 ; S/2.98 ; S/146.02 
+19 04 2019;Facial;C-20;Hieloterapia;Rosa; S/195.00 ; S/9.75 ; S/185.25 
+20 04 2019;Facial;B-20;Basico;Camila; S/137.00 ; S/4.11 ; S/132.89 
+20 04 2019;Corporal;A-11;Reductivo;María; S/138.00 ; S/5.52 ; S/132.48 
+20 04 2019;Facial;D-12;Basico;María; S/137.00 ; S/4.11 ; S/132.89 
+20 04 2019;Corporal;B-20;Relajante (No Recuerda Bien El Nombre);María; S/170.00 ; S/11.90 ; S/158.10 
+20 04 2019;Corporal;C-20;Integral Reductivo;Camila; S/191.00 ; S/3.82 ; S/187.18 
+20 04 2019;Facial;A-18;Europeo;Camila; S/199.00 ; S/13.93 ; S/185.07 
+20 04 2019;Facial;C-15;Antiedad;María; S/228.00 ; S/9.12 ; S/218.88 
+20 04 2019;Corporal;D-18;Envolvente Desintoxicante;Rosa; S/198.00 ; S/17.82 ; S/180.18 
+20 04 2019;Corporal;B-15;Velo De Novia (Exfoliacion Corporal);María; S/217.00 ; S/10.85 ; S/206.15 
+20 04 2019;Corporal;C-11;Ritual Azul Turquesa;Ana; S/194.00 ; S/15.52 ; S/178.48 
+20 04 2019;Facial;C-16;Hidratante;Rosa; S/193.00 ; S/3.86 ; S/189.14 
+20 04 2019;Corporal;B-18;Chocoterapia;María; S/184.00 ; S/11.04 ; S/172.96 
+20 04 2019;Corporal;B-11;Exfoliante Energizante;Camila; S/202.00 ; S/4.04 ; S/197.96 
+20 04 2019;Corporal;A-18;Envolvente Desintoxicante;Ana; S/198.00 ; S/9.90 ; S/188.10 
+20 04 2019;Facial;C-19;Europeo;Rafaella; S/199.00 ; S/19.90 ; S/179.10 
+20 04 2019;Corporal;B-10;Integral Reductivo;Ana; S/191.00 ; S/1.91 ; S/189.09 
+20 04 2019;Corporal;A-13;Ritual Azul Turquesa;Ana; S/194.00 ; S/9.70 ; S/184.30 
+21 04 2019;Corporal;D-14;Exfoliante Energizante;Rosa; S/202.00 ; S/10.10 ; S/191.90 
+21 04 2019;Facial;C-14;Microdermoabrasión;María; S/237.00 ; S/18.96 ; S/218.04 
+21 04 2019;Corporal;A-12;Modelaje;Ana; S/199.00 ; S/19.90 ; S/179.10 
+21 04 2019;Corporal;C-19;Hipertermia;María; S/202.00 ;; S/202.00 
+21 04 2019;Facial;B-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/11.60 ; S/133.40 
+21 04 2019;Facial;D-12;Lifting de Piel Madura;Rafaella; S/212.00 ; S/8.48 ; S/203.52 
+21 04 2019;Corporal;B-11;Con Tequila;María; S/146.00 ; S/13.14 ; S/132.86 
+21 04 2019;Facial;C-10;Limpieza Profunda;María; S/218.00 ; S/13.08 ; S/204.92 
+21 04 2019;Corporal;B-12;Modelaje;María; S/199.00 ; S/1.99 ; S/197.01 
+21 04 2019;Corporal;B-15;Ritual Azul Turquesa;Rafaella; S/194.00 ;; S/194.00 
+21 04 2019;Facial;C-14;Microdermoabrasión;Camila; S/237.00 ; S/21.33 ; S/215.67 
+21 04 2019;Corporal;B-18;Cacahua;Ana; S/168.00 ; S/15.12 ; S/152.88 
+21 04 2019;Facial;C-17;Microdermoabrasión;Rosa; S/237.00 ;; S/237.00 
+21 04 2019;Corporal;D-13;Modelaje;Camila; S/199.00 ; S/11.94 ; S/187.06 
+21 04 2019;Facial;C-19;Limpieza Profunda;María; S/218.00 ; S/2.18 ; S/215.82 
+22 04 2019;Facial;B-10;Linea Colageno y Elastina;Ana; S/145.00 ;; S/145.00 
+22 04 2019;Corporal;C-11;Heavenly Body;Rafaella; S/192.00 ;; S/192.00 
+22 04 2019;Facial;D-19;Yax;Camila; S/157.00 ; S/3.14 ; S/153.86 
+22 04 2019;Corporal;A-11;Exfoliante Energizante;Rosa; S/202.00 ; S/4.04 ; S/197.96 
+22 04 2019;Facial;C-18;Hidratante;Ana; S/193.00 ; S/13.51 ; S/179.49 
+22 04 2019;Facial;B-19;Microdermoabrasión;Rafaella; S/237.00 ; S/14.22 ; S/222.78 
+22 04 2019;Facial;A-20;Limpieza Profunda;Ana; S/218.00 ; S/19.62 ; S/198.38 
+22 04 2019;Facial;B-10;Antiedad;Rafaella; S/228.00 ; S/9.12 ; S/218.88 
+22 04 2019;Corporal;C-18;Envolvente Desintoxicante;Camila; S/198.00 ; S/19.80 ; S/178.20 
+22 04 2019;Facial;A-15;Daymond Frozend;María; S/146.00 ; S/13.14 ; S/132.86 
+22 04 2019;Facial;B-14;Europeo;Rosa; S/199.00 ; S/9.95 ; S/189.05 
+22 04 2019;Corporal;B-15;Velo De Novia (Exfoliacion Corporal);Rafaella; S/217.00 ; S/13.02 ; S/203.98 
+22 04 2019;Corporal;C-11;Modelaje;Rosa; S/199.00 ; S/17.91 ; S/181.09 
+22 04 2019;Facial;A-18;Renewel;Camila; S/173.00 ; S/8.65 ; S/164.35 
+22 04 2019;Facial;B-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/14.50 ; S/130.50 
+22 04 2019;Facial;D-13;Hidratante;Rafaella; S/193.00 ; S/7.72 ; S/185.28 
+23 04 2019;Corporal;B-18;Cacahua;Ana; S/168.00 ; S/15.12 ; S/152.88 
+23 04 2019;Corporal;A-17;Cacahua;Ana; S/168.00 ; S/13.44 ; S/154.56 
+23 04 2019;Corporal;D-16;De Algas Desintoxicantes;María; S/101.00 ; S/1.01 ; S/99.99 
+23 04 2019;Facial;A-16;Antiedad;Ana; S/228.00 ; S/2.28 ; S/225.72 
+23 04 2019;Corporal;D-14;Ritual Azul Turquesa;Ana; S/194.00 ; S/1.94 ; S/192.06 
+23 04 2019;Facial;B-14;Renewel;Ana; S/173.00 ; S/6.92 ; S/166.08 
+23 04 2019;Facial;D-16;Renewel;Rosa; S/173.00 ; S/6.92 ; S/166.08 
+23 04 2019;Corporal;D-18;Exfoliante Energizante;Rafaella; S/202.00 ; S/8.08 ; S/193.92 
+23 04 2019;Facial;B-18;Antiedad;María; S/228.00 ; S/18.24 ; S/209.76 
+23 04 2019;Facial;A-17;Linea Colageno y Elastina;María; S/145.00 ;; S/145.00 
+23 04 2019;Corporal;A-15;Velo De Novia (Exfoliacion Corporal);Rafaella; S/217.00 ; S/6.51 ; S/210.49 
+23 04 2019;Facial;C-14;Microdermoabrasión;María; S/237.00 ; S/18.96 ; S/218.04 
+23 04 2019;Facial;D-10;Europeo;Ana; S/199.00 ; S/7.96 ; S/191.04 
+23 04 2019;Corporal;B-16;Heavenly Body;Rosa; S/192.00 ; S/19.20 ; S/172.80 
+23 04 2019;Corporal;C-11;De Algas Desintoxicantes;Rosa; S/101.00 ; S/10.10 ; S/90.90 
+24 04 2019;Facial;D-12;Basico;María; S/137.00 ; S/4.11 ; S/132.89 
+24 04 2019;Facial;A-19;Accua Morin;María; S/149.00 ; S/1.49 ; S/147.51 
+24 04 2019;Facial;D-19;Basico;María; S/137.00 ; S/9.59 ; S/127.41 
+24 04 2019;Corporal;D-15;Fango;Rafaella; S/111.00 ; S/1.11 ; S/109.89 
+24 04 2019;Corporal;C-11;Modelaje;Camila; S/199.00 ; S/19.90 ; S/179.10 
+24 04 2019;Facial;A-12;Daymond Frozend;Rosa; S/146.00 ; S/1.46 ; S/144.54 
+24 04 2019;Corporal;D-18;Con Tequila;Rosa; S/146.00 ; S/4.38 ; S/141.62 
+24 04 2019;Corporal;C-11;Modelaje;Camila; S/199.00 ; S/19.90 ; S/179.10 
+24 04 2019;Facial;C-17;Equilibrante;Camila; S/112.00 ; S/4.48 ; S/107.52 
+24 04 2019;Facial;C-20;Europeo;Camila; S/199.00 ; S/11.94 ; S/187.06 
+24 04 2019;Facial;A-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/8.70 ; S/136.30 
+24 04 2019;Corporal;D-14;Ritual Azul Turquesa;Camila; S/194.00 ; S/9.70 ; S/184.30 
+24 04 2019;Facial;C-10;Basico;María; S/137.00 ; S/4.11 ; S/132.89 
+24 04 2019;Facial;B-20;Vaporizacion;Rosa; S/151.00 ; S/15.10 ; S/135.90 
+24 04 2019;Corporal;D-13;Modelaje;Camila; S/199.00 ; S/11.94 ; S/187.06 
+24 04 2019;Corporal;B-16;Relajante (No Recuerda Bien El Nombre);Rosa; S/170.00 ; S/3.40 ; S/166.60 
+24 04 2019;Facial;B-15;Hieloterapia;Camila; S/195.00 ; S/7.80 ; S/187.20 
+24 04 2019;Corporal;C-11;Ritual Azul Turquesa;Ana; S/194.00 ; S/11.64 ; S/182.36 
+24 04 2019;Corporal;D-17;Envolvente De Aguacate Con Yogurt;Camila; S/201.00 ; S/2.01 ; S/198.99 
+24 04 2019;Facial;D-19;Hieloterapia;Rosa; S/195.00 ;; S/195.00 
+24 04 2019;Corporal;B-16;Chocoterapia;Camila; S/184.00 ; S/1.84 ; S/182.16 
+24 04 2019;Facial;A-19;Accua Morin;María; S/149.00 ; S/1.49 ; S/147.51 
+25 04 2019;Facial;A-20;Limpieza Profunda;Ana; S/218.00 ; S/19.62 ; S/198.38 
+25 04 2019;Corporal;B-14;Cacahua;Rosa; S/168.00 ; S/11.76 ; S/156.24 
+25 04 2019;Corporal;B-18;Ritual Azul Turquesa;Camila; S/194.00 ; S/17.46 ; S/176.54 
+25 04 2019;Facial;C-19;Exfoliación;Rosa; S/181.00 ; S/10.86 ; S/170.14 
+25 04 2019;Facial;D-14;Antiedad;Rosa; S/228.00 ; S/4.56 ; S/223.44 
+25 04 2019;Corporal;D-18;Envolvente Desintoxicante;Camila; S/198.00 ; S/17.82 ; S/180.18 
+25 04 2019;Facial;B-14;Basico;Camila; S/137.00 ; S/8.22 ; S/128.78 
+25 04 2019;Facial;C-19;Exfoliación;Rosa; S/181.00 ; S/10.86 ; S/170.14 
+25 04 2019;Facial;D-11;Tratamiento de Limpieza;Rosa; S/220.00 ; S/17.60 ; S/202.40 
+25 04 2019;Facial;C-19;Daymond Frozend;Ana; S/146.00 ; S/4.38 ; S/141.62 
+25 04 2019;Corporal;D-16;Relajante (No Recuerda Bien El Nombre);Camila; S/170.00 ; S/13.60 ; S/156.40 
+25 04 2019;Corporal;D-16;Envolvente Desintoxicante;Rosa; S/198.00 ; S/5.94 ; S/192.06 
+25 04 2019;Facial;B-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/11.60 ; S/133.40 
+25 04 2019;Facial;B-10;Equilibrante;Camila; S/112.00 ; S/8.96 ; S/103.04 
+25 04 2019;Corporal;B-17;Fango Aromatico;Rosa; S/128.00 ; S/12.80 ; S/115.20 
+25 04 2019;Facial;B-20;Vaporizacion;Rosa; S/151.00 ; S/15.10 ; S/135.90 
+25 04 2019;Facial;C-19;Tratamiento de Limpieza;Ana; S/220.00 ; S/11.00 ; S/209.00 
+25 04 2019;Corporal;A-15;Envolvente De Aguacate Con Yogurt;Rosa; S/201.00 ; S/10.05 ; S/190.95 
+25 04 2019;Facial;D-16;Antiedad;María; S/228.00 ; S/22.80 ; S/205.20 
+26 04 2019;Facial;C-17;Microdermoabrasión;María; S/237.00 ; S/14.22 ; S/222.78 
+26 04 2019;Corporal;C-19;De Algas Desintoxicantes;Rosa; S/101.00 ;; S/101.00 
+26 04 2019;Corporal;A-15;Envolvente Desintoxicante;Camila; S/198.00 ; S/1.98 ; S/196.02 
+26 04 2019;Facial;A-16;Europeo;Rafaella; S/199.00 ; S/7.96 ; S/191.04 
+26 04 2019;Corporal;A-16;Ritual Esencial Del Mar;María; S/214.00 ; S/4.28 ; S/209.72 
+26 04 2019;Corporal;B-17;Fango Aromatico;Camila; S/128.00 ; S/7.68 ; S/120.32 
+26 04 2019;Facial;D-20;Antiedad;María; S/228.00 ; S/6.84 ; S/221.16 
+26 04 2019;Corporal;D-20;Envolvente Desintoxicante;Ana; S/198.00 ; S/19.80 ; S/178.20 
+26 04 2019;Corporal;A-20;Envolvente De Aguacate Con Yogurt;Ana; S/201.00 ; S/16.08 ; S/184.92 
+26 04 2019;Corporal;A-20;De Algas Desintoxicantes;Rosa; S/101.00 ; S/3.03 ; S/97.97 
+26 04 2019;Facial;D-15;Exfoliación;Rafaella; S/181.00 ; S/1.81 ; S/179.19 
+26 04 2019;Facial;C-20;Limpieza Profunda;Rafaella; S/218.00 ; S/19.62 ; S/198.38 
+26 04 2019;Facial;A-19;Tratamiento de Limpieza;Ana; S/220.00 ; S/17.60 ; S/202.40 
+26 04 2019;Facial;C-19;Europeo;Rafaella; S/199.00 ; S/19.90 ; S/179.10 
+26 04 2019;Corporal;D-11;Exfoliante Energizante;María; S/202.00 ; S/16.16 ; S/185.84 
+26 04 2019;Corporal;B-19;Ritual Azul Turquesa;María; S/194.00 ; S/3.88 ; S/190.12 
+26 04 2019;Corporal;C-11;Integral Reductivo;Rosa; S/191.00 ; S/11.46 ; S/179.54 
+26 04 2019;Corporal;C-19;Hipertermia;María; S/202.00 ;; S/202.00 
+26 04 2019;Corporal;A-15;Hieloterapia;Rosa; S/195.00 ; S/5.85 ; S/189.15 
+26 04 2019;Facial;C-20;Europeo;Camila; S/199.00 ; S/11.94 ; S/187.06 
+27 04 2019;Corporal;D-13;Chocoterapia;Camila; S/184.00 ; S/16.56 ; S/167.44 
+27 04 2019;Corporal;A-20;De Algas Desintoxicantes;Rosa; S/101.00 ; S/3.03 ; S/97.97 
+27 04 2019;Facial;A-11;Linea Colageno y Elastina;Ana; S/145.00 ; S/8.70 ; S/136.30 
+27 04 2019;Facial;D-18;Yax;María; S/157.00 ; S/3.14 ; S/153.86 
+27 04 2019;Corporal;C-15;Ritual Azul Turquesa;María; S/194.00 ; S/9.70 ; S/184.30 
+27 04 2019;Facial;D-18;Yax;María; S/157.00 ; S/3.14 ; S/153.86 
+27 04 2019;Facial;D-20;Europeo;Ana; S/199.00 ; S/19.90 ; S/179.10 
+27 04 2019;Facial;B-17;Vaporizacion;María; S/151.00 ; S/6.04 ; S/144.96 
+27 04 2019;Corporal;D-20;Exfoliante Energizante;Camila; S/202.00 ; S/4.04 ; S/197.96 
+27 04 2019;Facial;D-20;Renewel;María; S/173.00 ; S/13.84 ; S/159.16 
+27 04 2019;Corporal;A-11;Fango Aromatico;Rosa; S/128.00 ; S/6.40 ; S/121.60 
+27 04 2019;Facial;B-13;Tratamiento de Limpieza;Ana; S/220.00 ; S/4.40 ; S/215.60 
+27 04 2019;Corporal;D-20;Relajante (No Recuerda Bien El Nombre);Rosa; S/170.00 ; S/6.80 ; S/163.20 
+27 04 2019;Facial;A-18;Limpieza Profunda;Camila; S/218.00 ; S/13.08 ; S/204.92 
+27 04 2019;Facial;B-15;Hieloterapia;Camila; S/195.00 ; S/7.80 ; S/187.20 
+27 04 2019;Corporal;D-12;Integral Reductivo;Camila; S/191.00 ; S/11.46 ; S/179.54 
+27 04 2019;Facial;A-13;Europeo;Camila; S/199.00 ; S/1.99 ; S/197.01 
+28 04 2019;Corporal;A-17;Cacahua;Camila; S/168.00 ; S/3.36 ; S/164.64 
+28 04 2019;Corporal;B-16;Integral Reductivo;Rafaella; S/191.00 ; S/15.28 ; S/175.72 
+28 04 2019;Facial;B-20;Limpieza Profunda;Rafaella; S/218.00 ; S/15.26 ; S/202.74 
+28 04 2019;Facial;B-10;Equilibrante;Camila; S/112.00 ; S/8.96 ; S/103.04 
+28 04 2019;Facial;D-10;Europeo;Ana; S/199.00 ; S/15.92 ; S/183.08 
+28 04 2019;Facial;D-13;Hieloterapia;Camila; S/195.00 ; S/11.70 ; S/183.30 
+28 04 2019;Corporal;D-13;Envolvente De Aguacate Con Yogurt;Ana; S/201.00 ;; S/201.00 
+28 04 2019;Facial;A-15;Daymond Frozend;María; S/146.00 ; S/13.14 ; S/132.86 
+28 04 2019;Facial;D-13;Limpieza Profunda;Ana; S/218.00 ; S/8.72 ; S/209.28 
+28 04 2019;Facial;A-13;Accua Morin;Ana; S/149.00 ; S/14.90 ; S/134.10 
+28 04 2019;Corporal;D-11;Integral Reductivo;María; S/191.00 ; S/3.82 ; S/187.18 
+28 04 2019;Corporal;C-10;Fango;Camila; S/111.00 ; S/3.33 ; S/107.67 
+28 04 2019;Corporal;D-20;Exfoliante Energizante;María; S/202.00 ; S/16.16 ; S/185.84 
+28 04 2019;Corporal;D-14;Exfoliante Energizante;María; S/202.00 ; S/6.06 ; S/195.94 
+28 04 2019;Corporal;D-16;De Algas Desintoxicantes;María; S/101.00 ; S/1.01 ; S/99.99 
+28 04 2019;Facial;D-19;Limpieza Profunda;Rosa; S/218.00 ; S/19.62 ; S/198.38 
+29 04 2019;Corporal;A-14;Con Tequila;Ana; S/146.00 ; S/1.46 ; S/144.54 
+29 04 2019;Corporal;B-11;Reductivo;Camila; S/138.00 ; S/5.52 ; S/132.48 
+29 04 2019;Corporal;C-19;Reductivo;Camila; S/138.00 ; S/13.80 ; S/124.20 
+29 04 2019;Corporal;B-11;Con Tequila;María; S/146.00 ; S/13.14 ; S/132.86 
+29 04 2019;Corporal;C-10;Integral Reductivo;María; S/191.00 ; S/7.64 ; S/183.36 
+29 04 2019;Corporal;B-15;Envolvente De Aguacate Con Yogurt;María; S/201.00 ; S/10.05 ; S/190.95 
+29 04 2019;Corporal;D-16;Envolvente Desintoxicante;Rosa; S/198.00 ; S/5.94 ; S/192.06 
+29 04 2019;Corporal;D-16;Con Tequila;Camila; S/146.00 ; S/14.60 ; S/131.40 
+29 04 2019;Facial;C-16;Hidratante;Rosa; S/193.00 ; S/3.86 ; S/189.14 
+29 04 2019;Facial;A-15;Daymond Frozend;Ana; S/146.00 ; S/11.68 ; S/134.32 
+29 04 2019;Corporal;A-10;Heavenly Body;Rafaella; S/192.00 ; S/9.60 ; S/182.40 
+29 04 2019;Corporal;D-17;Ritual Azul Turquesa;María; S/194.00 ; S/1.94 ; S/192.06 
+29 04 2019;Facial;B-19;Antiedad;Rafaella; S/228.00 ; S/13.68 ; S/214.32 
+29 04 2019;Facial;B-17;Europeo;Camila; S/199.00 ;; S/199.00 
+29 04 2019;Corporal;A-12;Hipertermia;Rafaella; S/202.00 ; S/2.02 ; S/199.98 
+29 04 2019;Facial;A-17;Exfoliación;Rosa; S/181.00 ; S/1.81 ; S/179.19 
+29 04 2019;Corporal;B-18;Fango;Rosa; S/111.00 ; S/5.55 ; S/105.45 
+29 04 2019;Corporal;C-15;Chocoterapia;Ana; S/184.00 ; S/3.68 ; S/180.32 
+29 04 2019;Facial;D-15;Antiedad;Camila; S/228.00 ; S/6.84 ; S/221.16 
+29 04 2019;Corporal;D-18;Con Tequila;Rosa; S/146.00 ; S/4.38 ; S/141.62 
+30 04 2019;Corporal;C-19;Hipertermia;María; S/202.00 ;; S/202.00 
+30 04 2019;Corporal;B-14;Heavenly Body;Ana; S/192.00 ;; S/192.00 
+30 04 2019;Corporal;A-19;Exfoliante Energizante;Camila; S/202.00 ;; S/202.00 
+30 04 2019;Corporal;A-11;Fango Aromatico;Rosa; S/128.00 ; S/6.40 ; S/121.60 
+30 04 2019;Facial;D-10;Europeo;Ana; S/199.00 ; S/7.96 ; S/191.04 
+30 04 2019;Facial;C-15;Antiedad;María; S/228.00 ; S/9.12 ; S/218.88 
+30 04 2019;Corporal;B-15;Reductivo;Camila; S/138.00 ; S/6.90 ; S/131.10 
+30 04 2019;Facial;C-20;Hieloterapia;Rosa; S/195.00 ; S/9.75 ; S/185.25 
+30 04 2019;Corporal;B-15;Envolvente De Aguacate Con Yogurt;María; S/201.00 ; S/10.05 ; S/190.95 
+30 04 2019;Facial;B-18;Limpieza Profunda;María; S/218.00 ; S/21.80 ; S/196.20 
+30 04 2019;Corporal;A-19;Cacahua;Ana; S/168.00 ; S/15.12 ; S/152.88 
+30 04 2019;Corporal;A-13;Ritual Azul Turquesa;Ana; S/194.00 ; S/9.70 ; S/184.30 
+30 04 2019;Facial;D-20;Daymond Frozend;Ana; S/146.00 ; S/1.46 ; S/144.54 
+30 04 2019;Corporal;C-18;Modelaje;Rafaella; S/199.00 ; S/15.92 ; S/183.08 
+30 04 2019;Facial;A-17;Linea Colageno y Elastina;Camila; S/145.00 ; S/1.45 ; S/143.55 
